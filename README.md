@@ -1,5 +1,4 @@
-# 1_testing_theory 📖 
-# 📱 Mobile Testing 
+# _testing_theory 📖 
  Prioritization in Regression and Types of Testing, Requirements analysis
  <ul>
 <li>  <a href="https://docs.google.com/spreadsheets/d/1oLHJUu53W6pAPgR9bOK7C4mAZ5CwJNmLezP8FFydA5s/edit?usp=sharing">Prioritization.</a> select tests for the regression suite based on available priority data, automation information, and bug discovery rate. </li> 
